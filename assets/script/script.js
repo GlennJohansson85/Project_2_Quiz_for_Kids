@@ -146,13 +146,10 @@ document.addEventListener("DOMContentLoaded", function () {
     feedbackElement.style.display = "none";
     progressElement.style.display = "none";
 
-    // Message "quiz complete"
+    // Message "quiz complete" and "Good job" image
     var quizCompletedContainer = document.getElementById("quiz-completed-container");
     quizCompletedContainer.style.display = "block";
 
-    // Good-job image
-    var quizCompletedImage = document.getElementById("quiz-completed-image");
-    quizCompletedImage.style.display = "block";
   }
 
   // Initial load of the first question and progress indicator
