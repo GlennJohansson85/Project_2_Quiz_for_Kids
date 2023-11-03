@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Welcome to a fun quiz designed for kids, where they can test their knowledge on a wide range of topics">
+    <meta name="keywords" content="quiz for kids, interactive fun quiz, children quiz">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">     
+    <title>Quiz for Kids</title>
+   </head>
+<body>
+<!-- Css cant have alt text. Div created for that purpose only -->
+<div class="background.png" role=img aria-label="A hand-drawn illustration depicting the Earth, a rainbow in the distance, and four happy kids jumping in the air with their arms raised high"></div>
+  
+<!-- QUIZ CONTAINER -->
+    <div class="quiz-container">
+        <h1>quiz for kids</h1>
+        <hr>
+        <!-- Progress indicator -->
+        <h2 id="progress">Question 1 of 10</h2>
+        <!-- Quiz questions -->
+        <p id="question"></p>
+        <!-- Quiz answer options -->
+        <div id="options" class="options-container"></div>
+        <!-- Score progress -->
+        <p id="feedback"></p>
+        <h2>score: <span id="score" style="display: inline;">0</span></h2>
+        <!-- Message after complete quiz -->
+        <div id="quiz-completed-container" style="display: none;">
+        <img src="assets/img/good-job.png" alt="A star containing the text 'good job'">
+        <h2>quiz complete</h2>
+        <p>questions you answered incorrect:</p>
+        </div>
+        <!-- Summary of incorrect answers after completed quiz -->
+        <div id="quiz-summary" style="display: none;">
+            <ul class="quiz-summary-list"></ul>
+        </div>
+    </div>
+        
+<!-- TRY AGAIN CONTAINER -->
+    <!-- try again button, show after complete quiz -->
+    <div class="refresh-container">
+        <button id="refresh-button" onClick="window.location.reload();">try again?</button>
+    </div>
+    
+<!-- JS LINK -->
+    <script src="script.js"></script>    
+</body> 
+</html>
