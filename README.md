@@ -31,7 +31,7 @@ No errors
 #### https://jshint.com
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/9440e681-cbf1-4300-b417-8c56bde4cfdf)<br>
 No errors
-#### Google Developer tools & https://ui.dev/amiresponsive
+#### Google Developer tools & httpz://ui.dev/amiresponsive
 Used for assessing the website´s responsiveness across mulitple platfroms - desktop, tablet and mobile devices (Ios & Android). Performance optimal.
 #### Browers
 Performance remains consistent across Mozilla, Chrome and Edge.
