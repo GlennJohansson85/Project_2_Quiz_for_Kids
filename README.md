@@ -44,7 +44,7 @@ No errors
 #### LightHouse <br>
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/a83894c1-8581-4c80-8241-509dbb01969b)<br>
 
-#### Jshint.com <br>
+#### Jshint <br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/4e2eb333-8f30-4a8d-84cf-30346ebc1133)<br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/061ef4c9-adf8-42dc-886b-2fb70fefc668)<br>
 No errors
