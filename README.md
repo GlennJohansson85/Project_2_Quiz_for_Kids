@@ -33,18 +33,18 @@ With the "Try again" button the user can restart the quiz, giving the user the o
 The interface of the quiz follows the same colorscheme as the background image, ensuring a cohesive design. Uppercase letters are used, throughout, for enhanced readability and font families are chosen with the target audience in mind. 
 
 ## Testing
-#### Nu html Checker
+#### Nu html Checker <br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ccece781-0ab2-4157-858a-3172c88d1439)<br>
 No errors 
 
-#### WC3 - CSS
+#### WC3 - CSS <br>
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/f1a0f9da-fd09-4d76-ab4d-a26942d855fc)<br>
 No errors
 
-#### LightHouse
+#### LightHouse <br>
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/a83894c1-8581-4c80-8241-509dbb01969b)<br>
 
-#### https://jshint.com
+#### https://jshint.com <br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/4e2eb333-8f30-4a8d-84cf-30346ebc1133)<br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/061ef4c9-adf8-42dc-886b-2fb70fefc668)<br>
 No errors
