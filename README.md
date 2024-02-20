@@ -56,7 +56,7 @@ Used for assessing the website´s responsiveness across mulitple platfroms - des
 Performance remains consistent across Mozilla, Chrome and Edge.<br>
 
 ### Unfixed Bugs
-No unfixed bugs.<br>
+In google chrome I get a 404 error regarding a favicon which I dont have in my project.<br>
 
 ## Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
