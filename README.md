@@ -16,7 +16,7 @@ By presenting four answer options per question, it´s easier for kids to answer 
 
 #### Score tracking
 The quiz keep track of the user´s score throughout the quiz which adds an element of competition and achievement, motivating kids to do their best. <br>
-![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/e309be62-5ca0-4b58-8b39-998c947e8f08)
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/e309be62-5ca0-4b58-8b39-998c947e8f08)<br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/f021afad-d22d-472f-b6f4-df42c9a6300e)
 
 
