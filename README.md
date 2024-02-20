@@ -60,6 +60,7 @@ The live link can be found here: https://glennjohansson85.github.io/p2-online_qu
  - Love Maths - Essentials Project
  - Portfolio 2: Project Submission
  - Student support: Tutor Assistance, Slack forum
+ - My mentor
 #### Websites:
 - https://alvarotrigo.com/blog/css-highlight-text/ = Used, partly, in the summary of incorrect answers.
 - https://www.flaticon.com/ = "good-job.png" image downloaded from here.
