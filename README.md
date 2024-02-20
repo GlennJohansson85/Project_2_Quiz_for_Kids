@@ -21,24 +21,29 @@ The interface of the quiz follows the same colorscheme as the background image, 
 
 ## Testing
 #### Nu html Checker
-![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ccece781-0ab2-4157-858a-3172c88d1439)
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ccece781-0ab2-4157-858a-3172c88d1439)<br>
 No errors 
-#### WC3 - CSS
-![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/f1a0f9da-fd09-4d76-ab4d-a26942d855fc)
-No errors
-#### LightHouse
 
-![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/a83894c1-8581-4c80-8241-509dbb01969b)<br>
-#### https://jshint.com
-![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/9440e681-cbf1-4300-b417-8c56bde4cfdf)<br>
+#### WC3 - CSS
+![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/f1a0f9da-fd09-4d76-ab4d-a26942d855fc)<br>
 No errors
+
+#### LightHouse
+![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/a83894c1-8581-4c80-8241-509dbb01969b)<br>
+
+#### https://jshint.com
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/4e2eb333-8f30-4a8d-84cf-30346ebc1133)<br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/061ef4c9-adf8-42dc-886b-2fb70fefc668)<br>
+No errors
+
 #### Google Developer tools & httpz://ui.dev/amiresponsive
-Used for assessing the website´s responsiveness across mulitple platfroms - desktop, tablet and mobile devices (Ios & Android). Performance optimal.
+Used for assessing the website´s responsiveness across mulitple platfroms - desktop, tablet and mobile devices (Ios & Android). Performance optimal.<br>
+
 #### Browers
-Performance remains consistent across Mozilla, Chrome and Edge.
+Performance remains consistent across Mozilla, Chrome and Edge.<br>
 
 ### Unfixed Bugs
-No unfixed bugs. 
+No unfixed bugs.<br>
 
 ## Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -55,6 +60,7 @@ The live link can be found here: https://glennjohansson85.github.io/p2-online_qu
  - Love Maths - Essentials Project
  - Portfolio 2: Project Submission
  - Student support: Tutor Assistance, Slack forum
+ - My mentor
 #### Websites:
 - https://alvarotrigo.com/blog/css-highlight-text/ = Used, partly, in the summary of incorrect answers.
 - https://www.flaticon.com/ = "good-job.png" image downloaded from here.
