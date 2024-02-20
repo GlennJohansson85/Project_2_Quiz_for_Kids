@@ -21,7 +21,7 @@ The interface of the quiz follows the same colorscheme as the background image, 
 
 ## Testing
 #### Nu html Checker
-![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ccece781-0ab2-4157-858a-3172c88d1439)
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ccece781-0ab2-4157-858a-3172c88d1439)<br>
 No errors 
 #### WC3 - CSS
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/f1a0f9da-fd09-4d76-ab4d-a26942d855fc)
