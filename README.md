@@ -49,6 +49,10 @@ No errors
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/061ef4c9-adf8-42dc-886b-2fb70fefc668)<br>
 No errors
 
+#### Function tests <br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/ec35af3f-6081-4ed0-8d02-ecb311e38412)
+
+
 #### Google Developer tools & httpz://ui.dev/amiresponsive
 Used for assessing the website´s responsiveness across mulitple platfroms - desktop, tablet and mobile devices (Ios & Android). Performance optimal.<br>
 
