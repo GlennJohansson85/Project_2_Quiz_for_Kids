@@ -27,10 +27,12 @@ No errors
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/f1a0f9da-fd09-4d76-ab4d-a26942d855fc)
 No errors
 #### LightHouse
-
 ![image](https://github.com/GlennJohansson85/p2-online_quiz/assets/139962883/a83894c1-8581-4c80-8241-509dbb01969b)<br>
 #### https://jshint.com
-![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/9440e681-cbf1-4300-b417-8c56bde4cfdf)<br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/4e2eb333-8f30-4a8d-84cf-30346ebc1133)
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/061ef4c9-adf8-42dc-886b-2fb70fefc668)
+
+<br>
 No errors
 #### Google Developer tools & httpz://ui.dev/amiresponsive
 Used for assessing the website´s responsiveness across mulitple platfroms - desktop, tablet and mobile devices (Ios & Android). Performance optimal.
