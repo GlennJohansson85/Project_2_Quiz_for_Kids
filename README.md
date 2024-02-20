@@ -7,7 +7,7 @@ Welcome to an engaging interactive quiz, specially designed for kids. This web-b
 ## Features
 
 #### Interactive quiz for kids
-An engaging and entertaining learning experience for children. It encourages them to participate actively and leanrn while having fun.<br>
+An engaging and entertaining learning experience for children. It encourages them to participate actively and learn while having fun.<br>
 ![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/85eb8548-a343-4662-a1b7-c8554f6272ae)
 
 #### Multiple-choice questions with four answer options
