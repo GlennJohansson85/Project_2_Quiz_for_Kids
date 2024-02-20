@@ -21,9 +21,14 @@ The quiz keep track of the user´s score throughout the quiz which adds an eleme
 
 
 #### Summary of incorrect answers
-After completing the quiz, the user can review a summary off the questions answered incorrectly including their own answer and the correct answer placed next to it. This allow the user to revisit and understand the topics they found challenging.
+After completing the quiz, the user can review a summary off the questions answered incorrectly including their own answer and the correct answer placed next to it. This allow the user to revisit and understand the topics they found challenging.<br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/10b3767c-379f-4e24-b991-41c9819991c2)<br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/35dd61fa-d006-48b9-b389-1898cc832d06)<br>
+
 #### Option to restart the quiz and try again.
-With the "Try again" button the user can restart the quiz, giving the user the opportunity to reinforce their knowledge by attempting the quiz multiple times.
+With the "Try again" button the user can restart the quiz, giving the user the opportunity to reinforce their knowledge by attempting the quiz multiple times.<br>
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/2c3b18a1-a8e5-4521-a7f4-fbe494ac092e)<br>
+
 #### Styles
 The interface of the quiz follows the same colorscheme as the background image, ensuring a cohesive design. Uppercase letters are used, throughout, for enhanced readability and font families are chosen with the target audience in mind. 
 
