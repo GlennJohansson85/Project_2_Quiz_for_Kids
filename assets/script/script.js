@@ -1,3 +1,4 @@
+"use strict";
 // Ensure JavaScript runs after HTML
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -149,7 +150,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Message "quiz complete" and "Good job" image
     var quizCompletedContainer = document.getElementById("quiz-completed-container");
     quizCompletedContainer.style.display = "block";
-
   }
 
   // Initial load of the first question and progress indicator
