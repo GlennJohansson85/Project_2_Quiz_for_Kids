@@ -8,10 +8,18 @@ Welcome to an engaging interactive quiz, specially designed for kids. This web-b
 
 #### Interactive quiz for kids
 An engaging and entertaining learning experience for children. It encourages them to participate actively and leanrn while having fun.
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/85eb8548-a343-4662-a1b7-c8554f6272ae)
+
 #### Multiple-choice questions with four answer options
-By presenting four answer options per question, it´s easier for kids to answer and learn. 
+By presenting four answer options per question, it´s easier for kids to answer and learn.
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/2ae06b93-6eb4-4e4f-9a7f-291982d2224f)
+
 #### Score tracking
-The quiz keep track of the user´s score throughout the quiz which adds an element of competition and achievement, motivating kids to do their best. 
+The quiz keep track of the user´s score throughout the quiz which adds an element of competition and achievement, motivating kids to do their best.
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/e309be62-5ca0-4b58-8b39-998c947e8f08)
+![image](https://github.com/GlennJohansson85/p2-quiz_for_kids/assets/139962883/f021afad-d22d-472f-b6f4-df42c9a6300e)
+
+
 #### Summary of incorrect answers
 After completing the quiz, the user can review a summary off the questions answered incorrectly including their own answer and the correct answer placed next to it. This allow the user to revisit and understand the topics they found challenging.
 #### Option to restart the quiz and try again.
